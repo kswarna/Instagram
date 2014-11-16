@@ -1,0 +1,5 @@
+c:\users\karthik\documents\visual studio 14\Projects\WpfApplication1\Instagram\bin\Debug\Instagram.dll
+c:\users\karthik\documents\visual studio 14\Projects\WpfApplication1\Instagram\bin\Debug\Instagram.pdb
+c:\users\karthik\documents\visual studio 14\Projects\WpfApplication1\Instagram\obj\Debug\Instagram.dll
+c:\users\karthik\documents\visual studio 14\Projects\WpfApplication1\Instagram\obj\Debug\Instagram.pdb
+c:\users\karthik\documents\visual studio 14\Projects\WpfApplication1\Instagram\obj\Debug\Instagram.csprojResolveAssemblyReference.cache
